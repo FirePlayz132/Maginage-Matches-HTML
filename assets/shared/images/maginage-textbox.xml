@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maginage-textbox.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="open0000" x="0" y="0" width="1092" height="273"/>
+	<SubTexture name="open0001" x="0" y="274" width="1092" height="273"/>
+	<SubTexture name="open0002" x="0" y="548" width="1092" height="273"/>
+	<SubTexture name="open0003" x="0" y="548" width="1092" height="273"/>
+	<SubTexture name="open0004" x="0" y="822" width="1092" height="273"/>
+	<SubTexture name="still0000" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0001" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0002" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0003" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0004" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0005" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0006" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0007" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0008" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0009" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0010" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0011" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0012" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0013" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0014" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0015" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0016" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0017" x="0" y="1096" width="1078" height="273"/>
+	<SubTexture name="still0018" x="0" y="1096" width="1078" height="273"/>
+</TextureAtlas>
