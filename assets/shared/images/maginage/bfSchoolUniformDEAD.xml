@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfSchoolUniformDEAD.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF School Dead Loop0000" x="3" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0001" x="447" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0002" x="447" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0003" x="891" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0004" x="891" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0005" x="1335" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0006" x="1335" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0007" x="1779" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0008" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0009" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0010" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0011" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0012" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0013" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0014" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0015" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0016" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0017" x="3" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0018" x="447" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0019" x="447" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0020" x="891" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0021" x="891" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0022" x="1335" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0023" x="1335" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0024" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0025" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0026" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0027" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0028" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0029" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0030" x="1779" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0031" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0032" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead Loop0033" x="2223" y="3" width="439" height="435"/>
+	<SubTexture name="BF School Dead confirm0000" x="2667" y="3" width="439" height="435" frameX="0" frameY="-64" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0001" x="3111" y="3" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0002" x="3555" y="3" width="439" height="499"/>
+	<SubTexture name="BF School Dead confirm0003" x="3999" y="3" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0004" x="3" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0005" x="447" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0006" x="891" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0007" x="1335" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0008" x="1779" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0009" x="2223" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0010" x="2667" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0011" x="3111" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0012" x="3555" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0013" x="3999" y="507" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0014" x="3" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0015" x="447" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0016" x="891" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0017" x="1335" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0018" x="1779" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0019" x="2223" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0020" x="2667" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0021" x="3111" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0022" x="3555" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0023" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0024" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0025" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0026" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0027" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0028" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0029" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0030" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0031" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0032" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF School Dead confirm0033" x="3999" y="981" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="BF school dies0000" x="3" y="1455" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0001" x="441" y="1455" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0002" x="879" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0003" x="1323" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0004" x="1767" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0005" x="2211" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0006" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0007" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0008" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0009" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0010" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0011" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0012" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0013" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0014" x="2655" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0015" x="3099" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0016" x="3099" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0017" x="3099" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0018" x="3543" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0019" x="3543" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0020" x="3987" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0021" x="3987" y="1455" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0022" x="3" y="1875" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0023" x="3" y="1875" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0024" x="447" y="1875" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0025" x="891" y="1875" width="439" height="439" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0026" x="891" y="1875" width="439" height="439" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0027" x="1335" y="1875" width="439" height="434" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0028" x="1335" y="1875" width="439" height="434" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0029" x="1779" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0030" x="1779" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0031" x="2223" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0032" x="2223" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0033" x="2223" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0034" x="2223" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0035" x="2667" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0036" x="3111" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0037" x="3555" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0038" x="3999" y="1875" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0039" x="3" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0040" x="447" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0041" x="891" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0042" x="1335" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0043" x="1779" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0044" x="2223" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0045" x="2667" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0046" x="3111" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0047" x="3555" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0048" x="3999" y="2319" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0049" x="3" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0050" x="447" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0051" x="891" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0052" x="1335" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0053" x="3" y="3" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="BF school dies0054" x="1779" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0055" x="1779" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0056" x="1779" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="BF school dies0057" x="1779" y="2759" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+</TextureAtlas>
